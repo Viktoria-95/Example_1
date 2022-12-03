@@ -15,7 +15,7 @@ if (num1>num2)
     Console.WriteLine($"max = {num1} ");
     else if (num1<num2)
     Console.WriteLine($"max = {num2} ");
-    else Console.WriteLine("Числа равны");
+    else Console.WriteLine("Числа равны ");
 
 // if (num1>num2)
 //     Console.WriteLine($"max = {num1} ");
