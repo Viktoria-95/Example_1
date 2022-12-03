@@ -12,9 +12,13 @@ int num2 = Convert.ToInt32(Console.ReadLine());
 
 if (num1>num2)
     Console.WriteLine($"max = {num1} ");
+    else Console.WriteLine($"max = {num2} ");
+
+// if (num1>num2)
+//     Console.WriteLine($"max = {num1} ");
 // if (num1<num2)
 //     Console.WriteLine($"min = {num1} ");
-if (num2>num1)
-    Console.WriteLine($"max = {num2} ");
+// if (num2>num1)
+//     Console.WriteLine($"max = {num2} ");
 // if (num2<num1)
 //     Console.WriteLine($"min = {num2} ");
